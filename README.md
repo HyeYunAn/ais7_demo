@@ -8,6 +8,6 @@
 * 데이터프레임 보여주기
 * 시각화하기
 
-'''python
+```python
 print("hello")
-'''
+```
